@@ -17,7 +17,7 @@ The analysis is showcased across four dashboards:
 
 By narrowing in on 2021–2024, this project highlights short-term shifts that reflect broader environmental and urbanization challenges—offering valuable insights for sustainability, planning, and decision-making.
 
-![image alt](https://github.com/Aashriya11/Delhi-Environmental-Analysis-/blob/8a3b80aa6d3e3be4f45106ecd296ea212275d214/Dashboard.JPG)
+![image alt](https://github.com/Aashriya11/Delhi-Environmental-Analysis-/blob/08c65cd07ca240be98ee89da7cc702f4dcfdfc7c/Dashboard.png)
 
 ---
 
