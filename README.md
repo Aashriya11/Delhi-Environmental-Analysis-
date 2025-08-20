@@ -105,6 +105,7 @@ Added a new Seasons column derived from Month values to group data into meaningf
 - Overall, AQI remains in the *unhealthy range* across years.  
 
 
+
 ### Dashboard 2: Population Overview
 
 1. **Life Expectancy**  
@@ -124,6 +125,7 @@ Added a new Seasons column derived from Month values to group data into meaningf
    - Average daily *births > deaths*, showing *positive natural population growth*.  
 
 
+
 ### Dashboard 3: Land & Water Overview
 
 1. **Area Distribution**  
@@ -140,6 +142,7 @@ Added a new Seasons column derived from Month values to group data into meaningf
 
 4. **Water Bodies**  
    - Maximum found in *South West Delhi*.  
+
 
 
 ### Dashboard 4: Infrastructure Growth
