@@ -104,7 +104,6 @@ Added a new Seasons column derived from Month values to group data into meaningf
 - Lowest average AQI: *203.63*.  
 - Overall, AQI remains in the *unhealthy range* across years.  
 
----
 
 ### Dashboard 2: Population Overview
 
@@ -124,7 +123,6 @@ Added a new Seasons column derived from Month values to group data into meaningf
 4. **Average Registered Births & Deaths**  
    - Average daily *births > deaths*, showing *positive natural population growth*.  
 
----
 
 ### Dashboard 3: Land & Water Overview
 
@@ -143,7 +141,6 @@ Added a new Seasons column derived from Month values to group data into meaningf
 4. **Water Bodies**  
    - Maximum found in *South West Delhi*.  
 
----
 
 ### Dashboard 4: Infrastructure Growth
 
